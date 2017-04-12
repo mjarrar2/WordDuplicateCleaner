@@ -4,6 +4,7 @@ WordDuplicateCleaner is a program that takes a set of delimited Arabic words and
 An online tool of this program:
 
 http://ontology.birzeit.edu/tools/duplicateCleaner.html
+
 OR to process large input go to: http://ontology.birzeit.edu/tools/duplicateCleanerFromFile.html
 
 INPUT [input.txt]
