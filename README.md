@@ -18,3 +18,7 @@ The program provides additional parameters to work with: [String delimiter, bool
 OUTPUT [output.txt]
 
 The output format is as follows: [SetID#SetOfWords#CleanedSetOfWords] where SetID and SetOfWords are the original user input, and CleanedSetOfWords is the set of words after removing duplicates
+
+Contributors:
+1. Mustafa Jarrar, Birzeit University, Palestine.
+2. Mohammad Dwaikat, Birzeit University, Palestine.
